@@ -1,1 +1,1 @@
-Home work of lesson #2
+Home work repo
